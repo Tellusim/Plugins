@@ -24,9 +24,9 @@ https://github.com/Tellusim/Plugins/tree/main/platform/cuda/
 
 ## Native Vulkan runtime
 
-https://github.com/Tellusim/Plugins/tree/main/platform/vulkan/
-
 You can use this plugin to write applications with native Vulkan API. All Tellusim platform classes give access to internal Vulkan handlers and can be used in Vulkan API calls.
+
+https://github.com/Tellusim/Plugins/tree/main/platform/vulkan/
 
 ![Vulkan](platform/vulkan/platform_vulkan.png)
 
@@ -34,9 +34,9 @@ You can use this plugin to write applications with native Vulkan API. All Tellus
 
 ## Native OpenGL runtime
 
-https://github.com/Tellusim/Plugins/tree/main/platform/opengl/
-
 This plugin provides access to all OpenGL core functions. OpenGL API calls can be utilized when necessary.
+
+https://github.com/Tellusim/Plugins/tree/main/platform/opengl/
 
 ![OpenGL](platform/opengl/platform_opengl.png)
 
@@ -44,8 +44,8 @@ This plugin provides access to all OpenGL core functions. OpenGL API calls can b
 
 ## Native OpenGLES runtime
 
-https://github.com/Tellusim/Plugins/tree/main/platform/opengles/
-
 This plugin provides access to all OpenGLES core functions. OpenGLES API calls can be utilized when necessary.
+
+https://github.com/Tellusim/Plugins/tree/main/platform/opengles/
 
 ![OpenGLES](platform/opengles/platform_opengles.png)
